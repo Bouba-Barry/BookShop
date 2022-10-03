@@ -1,0 +1,19 @@
+table thead>tr{
+    background-color: #615229; color:aliceblue; 
+}
+table{
+    border-collapse: collapse;
+    table-layout: fixed;
+    border: 5px solid #615229;
+    border-radius: 10px;
+    margin: 5px;
+}
+table tr{
+    border-color: #615229;
+}
+footer{
+    border-top: 5px solid #2d114a; 
+    /* margin-top: 10px; */
+    /* background-color: #2d114a; */
+    width: 100%;
+}
